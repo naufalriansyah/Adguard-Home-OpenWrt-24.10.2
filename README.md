@@ -39,3 +39,9 @@ Firmware ini berbasis dari RTAWRT, dibuat untuk menjadikan sebuah stb sebagai pe
 <img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot%202026-05-16%20at%2012.53.16%E2%80%AFPM%202.png" width="1000"/>
 <img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot%202026-05-16%20at%2012.53.29%E2%80%AFPM%202.png" width="1000"/>
 <img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot%202026-05-16%20at%2012.55.58%E2%80%AFPM%202.png" width="1000"/>
+
+<img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot_20260516-154355.png" width="500"/>
+<img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot_20260516-154405.png" width="500"/>
+<img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot_20260516-154444.png" width="500"/>
+<img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot_20260516-154434.png" width="500"/>
+<img src="https://github.com/naufalriansyah/Adguard-Home-OpenWrt-24.10.2/blob/main/Screenshot_20260516-154449.png" width="500"/>
